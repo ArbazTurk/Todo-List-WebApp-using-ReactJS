@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo-List-WebApp-using-ReactJS/static/css/main.e8acdf75.css",
+    "main.js": "/Todo-List-WebApp-using-ReactJS/static/js/main.2f1bf970.js",
+    "static/js/453.a50becb7.chunk.js": "/Todo-List-WebApp-using-ReactJS/static/js/453.a50becb7.chunk.js",
+    "index.html": "/Todo-List-WebApp-using-ReactJS/index.html",
+    "main.e8acdf75.css.map": "/Todo-List-WebApp-using-ReactJS/static/css/main.e8acdf75.css.map",
+    "main.2f1bf970.js.map": "/Todo-List-WebApp-using-ReactJS/static/js/main.2f1bf970.js.map",
+    "453.a50becb7.chunk.js.map": "/Todo-List-WebApp-using-ReactJS/static/js/453.a50becb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8acdf75.css",
+    "static/js/main.2f1bf970.js"
+  ]
+}
